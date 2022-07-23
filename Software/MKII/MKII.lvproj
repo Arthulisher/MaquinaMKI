@@ -13,9 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Class 2.lvclass" Type="LVClass" URL="../Class 2.lvclass"/>
 		<Item Name="HMI Class 3.lvclass" Type="LVClass" URL="../HMI Class 3.lvclass"/>
-		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="Control 1.ctl" Type="VI" URL="../Control 1.ctl"/>
-		</Item>
+		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
