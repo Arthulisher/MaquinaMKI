@@ -15,8 +15,11 @@
 		<Item Name="HMI Class 3.lvclass" Type="LVClass" URL="../HMI Class 3.lvclass"/>
 		<Item Name="Datos In.vi" Type="VI" URL="../Datos In.vi"/>
 		<Item Name="Datos Out.vi" Type="VI" URL="../Datos Out.vi"/>
-		<Item Name="Control2.ctl" Type="VI" URL="../Control2.ctl"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="Read Datos In.vi" Type="VI" URL="../Read Datos In.vi"/>
+			<Item Name="Read Datos Out.vi" Type="VI" URL="../Read Datos Out.vi"/>
+			<Item Name="Control2.ctl" Type="VI" URL="../Control2.ctl"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
