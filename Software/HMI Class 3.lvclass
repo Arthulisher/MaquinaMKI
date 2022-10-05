@@ -70,4 +70,15 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
 	</Item>
+	<Item Name="LOGGIN" Type="Folder">
+		<Item Name="USUARIO_CONTRASENA.vi" Type="VI" URL="../USUARIO_CONTRASENA.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#U!!!!"Q!%!!!!%E!Q`````QB4&gt;(*J&lt;G=A-A!!$%!B"U&amp;$1U644S!!&amp;E!B%5F/2V*&amp;5U&amp;3)#B&amp;4F2&amp;5CEA!""!-0````]'1WRB&gt;G5A!!!11$$`````"EZP&lt;7*S:1!!6!$Q!!Q!!!!"!!)!!!!!!!!!!!!!!!!!!Q!%!!5$!!"Y!!!!!!!!#1!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!+!!!"#A!!!1I!!!!!!1!'!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082143248</Property>
+		</Item>
+	</Item>
 </LVClass>
